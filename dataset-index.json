@@ -1,0 +1,24 @@
+{
+  "title": "Dataset Index",
+  "description": "Root index of all datasets published under the dataset.tel domain.",
+  "version": "1.0",
+  "domain": "dataset.tel",
+  "primary_surfaces": {
+    "xml_sitemap": "https://dataset.tel/sitemap.xml",
+    "json_sitemap": "https://dataset.tel/sitemap.json",
+    "markdown_index": "https://dataset.tel/sitemap.md"
+  },
+  "well_known": {
+    "dataset": "https://dataset.tel/.well-known/dataset",
+    "security": "https://dataset.tel/.well-known/security.txt",
+    "did": "https://dataset.tel/.well-known/did.json",
+    "host_meta": "https://dataset.tel/.well-known/host-meta"
+  },
+  "techdeck": {
+    "xml": "https://dataset.tel/techdeck/sitemap.xml",
+    "json": "https://dataset.tel/techdeck/sitemap.json",
+    "markdown": "https://dataset.tel/techdeck/sitemap.md"
+  },
+  "purpose": "dataset.tel acts as the root dataset authority for Fesothe, and Jonathan Curley identity surfaces.",
+  "canonical": "https://dataset.tel/dataset-index.md"
+}

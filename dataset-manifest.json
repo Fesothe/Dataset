@@ -1,0 +1,42 @@
+{
+  "domain": "dataset.tel",
+  "type": "dataset-manifest",
+  "version": "1.0",
+  "datasets": [
+    {
+      "name": "Primary XML Sitemap",
+      "format": "xml",
+      "location": "https://dataset.tel/sitemap.xml"
+    },
+    {
+      "name": "Primary JSON Sitemap",
+      "format": "json",
+      "location": "https://dataset.tel/sitemap.json"
+    },
+    {
+      "name": "Primary Markdown Index",
+      "format": "markdown",
+      "location": "https://dataset.tel/sitemap.md"
+    },
+    {
+      "name": "TechDeck XML Sitemap",
+      "format": "xml",
+      "location": "https://dataset.tel/techdeck/sitemap.xml"
+    },
+    {
+      "name": "TechDeck JSON Sitemap",
+      "format": "json",
+      "location": "https://dataset.tel/techdeck/sitemap.json"
+    },
+    {
+      "name": "TechDeck Markdown Index",
+      "format": "markdown",
+      "location": "https://dataset.tel/techdeck/sitemap.md"
+    }
+  ],
+  "metadata": {
+    "owner": "Fesothe / CRCAT / Furtainment / Jonathan Curley",
+    "contact": "https://dataset.tel/.well-known/security.txt",
+    "canonical_index": "https://dataset.tel/dataset-index.md"
+  }
+}

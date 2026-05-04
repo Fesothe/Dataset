@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Dataset Sitemap Schema",
+  "description": "Schema definition for sitemap.json files used across dataset.tel and related domains.",
+  "type": "object",
+  "properties": {
+    "urlset": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    }
+  },
+  "required": ["urlset"]
+}

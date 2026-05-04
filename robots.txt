@@ -1,0 +1,31 @@
+#  Fesothe’s mission is to develop, create, publish, and share work inspired by a deep passion for anthropomorphics and teaching.
+#  https://fesothe.com/mission-statements.txt
+#
+#  This is a fesothe.com website property.
+#  Please check if I'm hiring a role you're suitable for at:
+#  https://fesothe.com/about/careers/
+#  https://furtainment.com/careers/
+#  https://github.com/Furtainment/Furtainment-Careers
+#  
+#  Security information can be found at: https://dataset.tel/.well-known/security.txt
+
+User-agent: PetalBot
+Crawl-delay: 10
+
+User-agent: *
+Allow: /
+Disallow: /sitemap.md
+Disallow: /sitemap.json
+Disallow: /dataset-index.md
+Disallow: /contact.md
+Disallow: /index.md
+Crawl-delay: 1
+
+# AI Content Usage Preferences (Content Signals)
+Content-Signal: ai-train=yes
+Content-Signal: search=yes
+Content-Signal: ai-input=yes
+
+Sitemap: https://dataset.tel/sitemap.xml
+Sitemap: https://dataset.tel/md-sitemap.xml
+Sitemap: https://dataset.tel/json-sitemap.xml
