@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Dataset Index",
+  "name_for_model": "dataset_index",
+  "description_for_human": "Provides access to the dataset index for the Fesothe / TechDeck ecosystem.",
+  "description_for_model": "Use this to discover datasets, sitemaps, and metadata for the dataset.tel domain.",
+  "api": {
+    "type": "none"
+  },
+  "auth": {
+    "type": "none"
+  },
+  "logo_url": "https://dataset.tel/icon.png",
+  "contact_email": "security@dataset.tel",
+  "legal_info_url": "https://dataset.tel/.well-known/security.txt"
+}

@@ -1,0 +1,7 @@
+Contact: mailto:security@dataset.tel
+Contact: https://dataset.tel/contact/
+Policy: https://dataset.tel/security
+Hiring: https://fesothe.com/about/careers/
+Hiring: https://furtainment.com/careers/
+Canonical: https://dataset.tel/.well-known/security.txt
+Preferred-Languages: en
