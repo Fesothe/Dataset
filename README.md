@@ -29,3 +29,10 @@ All linked datasets use machine‑friendly formats such as:
 ## Notes
 This index covers **personal datasets only**.  
 Studio‑level datasets are indexed separately at **datasets.tel**.
+
+## License
+This dataset index is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+https://creativecommons.org/licenses/by/4.0/
+
+Images included in this repository are example assets only (favicons and 404 images).  
+They are provided to show reference locations and structure; please replace them with your own designs.
