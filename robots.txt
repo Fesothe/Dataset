@@ -10,19 +10,24 @@
 #  Security information can be found at: https://dataset.tel/.well-known/security.txt
 
 User-agent: PetalBot
-Crawl-delay: 10
+Allow: /
+Crawl-delay: 1
 
 User-agent: GPTBot
 Allow: /
+Crawl-delay: 1
 
 User-agent: ClaudeBot
 Allow: /
+Crawl-delay: 1
 
 User-agent: PerplexityBot
 Allow: /
+Crawl-delay: 1
 
 User-agent: Googlebot
 Allow: /
+Crawl-delay: 1
 
 User-agent: *
 Allow: /
